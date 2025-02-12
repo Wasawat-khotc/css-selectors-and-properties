@@ -1,1 +1,11 @@
-/* start coding here */
+input {
+    height: 50px;
+    Width : 240px;
+    border-radius: 3px;
+}
+button {
+    height: 36px;
+    Width : 120px;
+    border-color: lightgray;
+    background-color: khaki;
+}
